@@ -1,0 +1,9 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/Tovrik/adventofcode.git",
+  "author": "Tovrik <stefan.t.peterson@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
